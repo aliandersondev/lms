@@ -119,7 +119,7 @@ Isso mostra domínio tanto de **backoffice sob medida** quanto de soluções pro
 ### Instalação
 
 ```bash
-git clone https://github.com/aliandersondev/ai-lms-platform.git
-cd ai-lms-platform
+git clone https://github.com/aliandersondev/lms.git
+cd lms
 pnpm install
 pnpm dev
